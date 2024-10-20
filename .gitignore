@@ -1,0 +1,5 @@
+# Ignorar archivos .env
+.env
+
+# Ignorar archivos JPEG
+*.jpeg
